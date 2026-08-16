@@ -1,0 +1,2 @@
+# diknaath
+Vastu Compass App
